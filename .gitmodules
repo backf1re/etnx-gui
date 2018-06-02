@@ -2,3 +2,6 @@
 	path = monero
 	url = https://github.com/monero-project/monero
 	ignore = all
+[submodule "electronero"]
+	path = electronero
+	url = https://github.com/electronero/electronero
